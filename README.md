@@ -12,7 +12,7 @@ You own a deep reference shelf. The question worth answering is *why the good on
 and that question has real answers — most of them published, none of them requiring anyone to
 open a binary.
 
-Four things live here:
+What's here:
 
 | | |
 |---|---|
@@ -21,7 +21,9 @@ Four things live here:
 | [`analysis/FILTERS-AND-EQ.md`](analysis/FILTERS-AND-EQ.md) | Pro-Q 4, Volcano, FilterFreak, and the genuinely hard part: Diva's nonlinear ZDF filters |
 | [`analysis/DYNAMICS.md`](analysis/DYNAMICS.md) | Pro-C 3, Pro-L 2, Pro-MB, LA-2A, True Dynamics, God Particle |
 | [`analysis/REVERB.md`](analysis/REVERB.md) | Valhalla trio, EMT 140/250, Pure Plate, Pro-R 2 |
-| [**`analysis/WAVES.md`**](analysis/WAVES.md) | 258 titles, and the six ideas worth taking — **their patents are psychoacoustic, not circuit-modeling** |
+| [**`analysis/WAVES.md`**](analysis/WAVES.md) | the six headline Waves technologies — **their patents are psychoacoustic, not circuit-modeling** |
+| [`analysis/WAVES-SWEEP.md`](analysis/WAVES-SWEEP.md) | the rest of the 258, by category, with the transferable idea per group |
+| [**`IDEAS.md`**](IDEAS.md) | **eight plugin concepts to build**, with mechanisms and measured acceptance criteria |
 | [`harness/`](harness/) | a validated measurement rig that turns plugins you own into behavioural specs |
 | [`BUILD-ORDER.md`](BUILD-ORDER.md) | what to build, in what sequence, with acceptance criteria |
 
@@ -108,3 +110,5 @@ Digital Filters · ITU-R BS.1770-4 for true-peak.
    Decapitator with `--tests alias,harmonics`. Compare their `even_over_odd_db`. You will see the
    difference between a transformer and a tube as a single number.
 3. Read `BUILD-ORDER.md` and build milestone 1.
+4. Read `IDEAS.md`. If you want something shippable this week rather than this quarter, start at
+   idea 6 (DOUBLE) — two days, and it beats products people pay for.
