@@ -49,10 +49,31 @@ One separation engine, with a transient/tonal balance fader, gives you:
   filtering them.
 - **Drum-bus separation** — process the stick and the shell independently.
 
-### Competition, honestly
+### Competition, honestly — CORRECTED 2026-09-11
 
-Spectral-layer tools exist (iZotope RX, some spectral editors) but they're offline repair tools.
-**Nobody ships HPSS as a real-time creative rebalancer with a single fader.** That's the gap.
+**This section originally claimed nobody ships this. That was wrong and it is the kind of error
+that wastes a build.**
+
+**Eventide SplitEQ** (2021) ships exactly this idea: their "Structural Split" separates transient
+from tonal and gives you independent gain per component across 8 bands. **oeksound Spiff** does
+the transient-side case as a dynamic processor. iZotope RX has spectral layers offline.
+
+So the *concept* is taken. What is still open:
+
+- **SplitEQ is an EQ.** The split drives per-band gain. It is not exposed as a raw two-stream
+  separation you can route, send, and process independently — which is where the reverb-send, the
+  de-esser and the drum-bus uses come from.
+- **Spiff is transient-only** and is a suppressor, not a rebalancer.
+- **Nobody ships the split as a platform** with the five downstream products sharing one engine.
+
+That reframes this from "new idea" to "known idea, unexploited surface." Still worth building —
+the platform framing is the differentiator, not the separation — but **go and demo SplitEQ before
+committing weeks**, and treat its transient/tonal quality as the bar to beat rather than a
+greenfield.
+
+*(Left as a visible correction rather than a silent edit. The competition claim was made from
+memory and not checked, which is exactly the failure this repo's `[inf]` marking exists to
+prevent.)*
 
 ### Cost and acceptance
 

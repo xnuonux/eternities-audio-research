@@ -23,6 +23,9 @@ What's here:
 | [`analysis/REVERB.md`](analysis/REVERB.md) | Valhalla trio, EMT 140/250, Pure Plate, Pro-R 2 |
 | [**`analysis/WAVES.md`**](analysis/WAVES.md) | the six headline Waves technologies — **their patents are psychoacoustic, not circuit-modeling** |
 | [`analysis/WAVES-SWEEP.md`](analysis/WAVES-SWEEP.md) | the rest of the 258, by category, with the transferable idea per group |
+| [**`analysis/RESONANCE-AND-AUTO-EQ.md`**](analysis/RESONANCE-AND-AUTO-EQ.md) | soothe2, Gullfoss, smart:EQ — **the most valuable modern category, and the least understood** |
+| [`analysis/VOCALS.md`](analysis/VOCALS.md) | the vocal chain — Melodyne DNA, Auto-Tune, Throat, alignment, the neural generation |
+| [`analysis/THE-EXPENSIVE-ONES.md`](analysis/THE-EXPENSIVE-ONES.md) | Acustica Volterra, Weiss, Kirchhoff, Massive Passive, Shadow Hills, Kotelnikov — what's technical vs reputational |
 | [**`IDEAS.md`**](IDEAS.md) | **plugin concepts 1-8**, with mechanisms and measured acceptance criteria |
 | [**`IDEAS-2.md`**](IDEAS-2.md) | **concepts 9-18** — harder into the psychoacoustic exploits, plus the infrastructure |
 | [`harness/`](harness/) | a validated measurement rig that turns plugins you own into behavioural specs |
