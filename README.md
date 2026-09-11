@@ -23,7 +23,8 @@ What's here:
 | [`analysis/REVERB.md`](analysis/REVERB.md) | Valhalla trio, EMT 140/250, Pure Plate, Pro-R 2 |
 | [**`analysis/WAVES.md`**](analysis/WAVES.md) | the six headline Waves technologies — **their patents are psychoacoustic, not circuit-modeling** |
 | [`analysis/WAVES-SWEEP.md`](analysis/WAVES-SWEEP.md) | the rest of the 258, by category, with the transferable idea per group |
-| [**`IDEAS.md`**](IDEAS.md) | **eight plugin concepts to build**, with mechanisms and measured acceptance criteria |
+| [**`IDEAS.md`**](IDEAS.md) | **plugin concepts 1-8**, with mechanisms and measured acceptance criteria |
+| [**`IDEAS-2.md`**](IDEAS-2.md) | **concepts 9-18** — harder into the psychoacoustic exploits, plus the infrastructure |
 | [`harness/`](harness/) | a validated measurement rig that turns plugins you own into behavioural specs |
 | [`BUILD-ORDER.md`](BUILD-ORDER.md) | what to build, in what sequence, with acceptance criteria |
 
@@ -110,5 +111,10 @@ Digital Filters · ITU-R BS.1770-4 for true-peak.
    Decapitator with `--tests alias,harmonics`. Compare their `even_over_odd_db`. You will see the
    difference between a transformer and a tube as a single number.
 3. Read `BUILD-ORDER.md` and build milestone 1.
-4. Read `IDEAS.md`. If you want something shippable this week rather than this quarter, start at
-   idea 6 (DOUBLE) — two days, and it beats products people pay for.
+4. Read `IDEAS.md` and `IDEAS-2.md`. If you want something shippable this week rather than this
+   quarter, start at idea 6 (DOUBLE) — two days, and it beats products people pay for.
+
+**The one structural thing to notice:** a validated psychoacoustic masking model is load-bearing
+across five of the eighteen ideas (§2 MARGIN, §5 LEGIBLE, §9 SHADOW, §11 FREE AIR, §17 CROWD).
+Build it once against published masking data and five products fall out. It is the
+highest-leverage single piece of engineering on either list.
