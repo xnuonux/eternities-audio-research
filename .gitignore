@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+measurements/**/*.npy
+measurements/**/*.wav
+.venv/
