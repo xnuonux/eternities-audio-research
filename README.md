@@ -21,6 +21,7 @@ Four things live here:
 | [`analysis/FILTERS-AND-EQ.md`](analysis/FILTERS-AND-EQ.md) | Pro-Q 4, Volcano, FilterFreak, and the genuinely hard part: Diva's nonlinear ZDF filters |
 | [`analysis/DYNAMICS.md`](analysis/DYNAMICS.md) | Pro-C 3, Pro-L 2, Pro-MB, LA-2A, True Dynamics, God Particle |
 | [`analysis/REVERB.md`](analysis/REVERB.md) | Valhalla trio, EMT 140/250, Pure Plate, Pro-R 2 |
+| [**`analysis/WAVES.md`**](analysis/WAVES.md) | 258 titles, and the six ideas worth taking — **their patents are psychoacoustic, not circuit-modeling** |
 | [`harness/`](harness/) | a validated measurement rig that turns plugins you own into behavioural specs |
 | [`BUILD-ORDER.md`](BUILD-ORDER.md) | what to build, in what sequence, with acceptance criteria |
 
@@ -67,7 +68,8 @@ Little series
 **Avalon** — AD2055, AD2077, VT-747SP
 **Instruments** — Arturia Pigments + Analog Lab V, Spectrasonics Omnisphere, Roland Cloud SRX
 (10 titles), XLN Audio
-**Other** — Antares, Cradle The God Particle, Retro Sta-Level, MHB Green/Red, Waves (WaveShell 17.1)
+**Waves (258 titles, V17)** — effectively the full Mercury catalog. See [`analysis/WAVES.md`](analysis/WAVES.md).
+**Other** — Antares, Cradle The God Particle, Retro Sta-Level, MHB Green/Red
 
 That is an unusually good measurement set. Between Diva and Zebra3 you have two different
 u-he architectures; between the three Valhallas you have plate, room and modern; between
