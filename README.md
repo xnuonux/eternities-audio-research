@@ -25,6 +25,9 @@ What's here:
 | [`analysis/WAVES-SWEEP.md`](analysis/WAVES-SWEEP.md) | the rest of the 258, by category, with the transferable idea per group |
 | [**`analysis/RESONANCE-AND-AUTO-EQ.md`**](analysis/RESONANCE-AND-AUTO-EQ.md) | soothe2, Gullfoss, smart:EQ — **the most valuable modern category, and the least understood** |
 | [`analysis/VOCALS.md`](analysis/VOCALS.md) | the vocal chain — Melodyne DNA, Auto-Tune, Throat, alignment, the neural generation |
+| [**`analysis/CLIPPING.md`**](analysis/CLIPPING.md) | **the worst aliasing case in all of audio DSP**, and why modern workflow clips before limiting |
+| [**`analysis/TRUE-IRON-DEEP.md`**](analysis/TRUE-IRON-DEEP.md) | **you own it, so it is fully characterisable** — the full measurement protocol and the Jiles-Atherton parameter map |
+| [`analysis/AUTOTUNE-DEEP.md`](analysis/AUTOTUNE-DEEP.md) | pitch detection failure modes, the decision layer, and the glide test that captures the whole product |
 | [`analysis/THE-EXPENSIVE-ONES.md`](analysis/THE-EXPENSIVE-ONES.md) | Acustica Volterra, Weiss, Kirchhoff, Massive Passive, Shadow Hills, Kotelnikov — what's technical vs reputational |
 | [**`IDEAS.md`**](IDEAS.md) | **plugin concepts 1-8**, with mechanisms and measured acceptance criteria |
 | [**`IDEAS-2.md`**](IDEAS-2.md) | **concepts 9-18** — harder into the psychoacoustic exploits, plus the infrastructure |
