@@ -33,6 +33,8 @@ What's here:
 | [**`IDEAS-2.md`**](IDEAS-2.md) | **concepts 9-18** — harder into the psychoacoustic exploits, plus the infrastructure |
 | [`harness/`](harness/) | a validated measurement rig that turns plugins you own into behavioural specs |
 | [`BUILD-ORDER.md`](BUILD-ORDER.md) | what to build, in what sequence, with acceptance criteria |
+| [**`BUY-LIST.md`**](BUY-LIST.md) | **what to purchase**, ranked by the research question each one settles |
+| [**`analysis/KAZROG-CATALOG.md`**](analysis/KAZROG-CATALOG.md) | **nine Kazrog products share one core** — a controlled experiment you already own |
 
 Claims are marked **[doc]** (vendor-documented or published), **[std]** (standard in the
 literature), or **[inf]** (my inference from behaviour). Don't treat an `[inf]` as established.
@@ -71,8 +73,9 @@ Timeless 3, Volcano 3, Twin 3, Simplon, Micro, One
 FilterFreak 1/2, PrimalTap, DevilLoc (+Deluxe), LittleAlterBoy, PanMan, Tremolator, and the
 Little series
 **Valhalla (3)** — VintageVerb, Room, FutureVerb
-**u-he** — Diva, Zebra3
-**Kazrog** — True Iron, True Dynamics, KClip3
+**u-he** — Diva, Zebra3 (VST3 + CLAP)
+**Antares** — Auto-Tune Pro, Auto-Key
+**Kazrog (9, verified from binary metadata)** — True Iron, True Dynamics, KClip3, Avalon AD2055 / AD2077 / VT-747SP, Retro Sta-Level, MHB Green / Red. One shared core — see [`analysis/KAZROG-CATALOG.md`](analysis/KAZROG-CATALOG.md)
 **UAD native** — EMT 140, EMT 250, Pure Plate, Oxide Tape, Teletronix LA-2A, Century Channel Strip
 **Avalon** — AD2055, AD2077, VT-747SP
 **Instruments** — Arturia Pigments + Analog Lab V, Spectrasonics Omnisphere, Roland Cloud SRX
